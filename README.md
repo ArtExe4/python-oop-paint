@@ -27,7 +27,7 @@ O sistema foi projetado para ser altamente desacoplado, extensível e de fácil 
 ## 🚀 Como Executar Localmente
 
 1. **Clone o repositório:**
-   `git clone [https://github.com/ArtExe4/python-oop-paint.git](https://github.com/ArtExe4/python-oop-paint.git)`
+   `git clone https://github.com/ArtExe4/python-oop-paint.git`
    `cd python-oop-paint`
 
 2. **Execute a aplicação:**

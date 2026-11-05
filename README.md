@@ -17,8 +17,26 @@ O sistema foi projetado para ser altamente desacoplado, extensível e de fácil 
 
 ## 📂 Estrutura do Projeto
 
-```text
-├── src/                # Código-fonte principal (Models, Views, Controllers e Patterns)
-├── tests/              # Testes automatizados e validação das regras de negócio
-├── .gitignore          # Ignora arquivos de cache e compilação do Python
-└── README.md           # Documentação técnica do projeto
+* `src/paint_mvc/` — Código-fonte principal (Models, Views, Controllers e Patterns)
+* `tests/` — Testes automatizados e validação das regras de negócio
+* `.gitignore` — Ignora arquivos de cache e compilação do Python
+* `README.md` — Documentação técnica do projeto
+
+---
+
+## 🚀 Como Executar Localmente
+
+1. **Clone o repositório:**
+   `git clone [https://github.com/ArtExe4/python-oop-paint.git](https://github.com/ArtExe4/python-oop-paint.git)`
+   `cd python-oop-paint`
+
+2. **Execute a aplicação:**
+   `python src/paint_mvc/main.py`
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Linguagem:** Python 3
+- **Paradigma:** Programação Orientada a Objetos (POO)
+- **Arquitetura:** MVC + Design Patterns (State, Composite, Command)
